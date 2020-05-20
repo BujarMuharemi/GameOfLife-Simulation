@@ -1,0 +1,12 @@
+C:\Users\Bujar_Resul\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\Bujar_Resul\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\Bujar_Resul\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Bujar_Resul\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Bujar_Resul\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\obj\x86\Debug\GameOfLife.csproj.GenerateResource.Cache
+C:\Users\Bujar_Resul\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\obj\x86\Debug\GameOfLife.exe
+C:\Users\Bujar_Resul\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\obj\x86\Debug\GameOfLife.pdb
+C:\Users\Bujar_Resul\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\obj\x86\Debug\GameOfLife.csprojResolveAssemblyReference.cache
+C:\Users\Bujar_Resul\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.manifest
+C:\Users\Bujar_Resul\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\bin\Debug\GameOfLife.application
+C:\Users\Bujar_Resul\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\obj\x86\Debug\GameOfLife.exe.manifest
+C:\Users\Bujar_Resul\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\obj\x86\Debug\GameOfLife.application

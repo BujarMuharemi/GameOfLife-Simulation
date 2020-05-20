@@ -1,0 +1,7 @@
+C:\Users\Bujar_Resul\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\bin\Release\GameOfLife.exe
+C:\Users\Bujar_Resul\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\bin\Release\GameOfLife.pdb
+C:\Users\Bujar_Resul\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Bujar_Resul\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Bujar_Resul\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\obj\x86\Release\GameOfLife.csproj.GenerateResource.Cache
+C:\Users\Bujar_Resul\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\obj\x86\Release\GameOfLife.exe
+C:\Users\Bujar_Resul\documents\visual studio 2010\Projects\GameOfLife\GameOfLife\obj\x86\Release\GameOfLife.pdb
